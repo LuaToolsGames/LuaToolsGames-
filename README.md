@@ -3,7 +3,7 @@
 A lightweight collection of Lua-based tools and scripts for exploring game-related resources in a simple, organized way.
 
 ## Overview
-LuaToolsGames is designed to make game utilities easier to find, use, and customize. The project keeps everything in one place so that scripts, tools, and resources are easy to navigate.
+LuaTools Makes Steam Money game Into Free Games!
 
 ## Why This Project?
 - Simple structure for quick access
